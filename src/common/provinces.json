@@ -1,0 +1,387 @@
+{
+  "data": {
+    "VN-44": {
+      "id": "VN-44",
+      "title": "An Giang",
+      "regions": "N",
+      "slug": "an-giang"
+    },
+    "VN-43": {
+      "id": "VN-43",
+      "title": "Bà Rịa–Vũng Tàu",
+      "regions": "N",
+      "slug": "ba-ria-vung-tau"
+    },
+    "VN-53": {
+      "id": "VN-53",
+      "title": "Bắc Kạn",
+      "regions": "B",
+      "slug": "bac-kan"
+    },
+    "VN-54": {
+      "id": "VN-54",
+      "title": "Bắc Giang",
+      "regions": "B",
+      "slug": "bac-giang"
+    },
+    "VN-55": {
+      "id": "VN-55",
+      "title": "Bạc Liêu",
+      "regions": "N",
+      "slug": "bac-lieu"
+    },
+    "VN-56": {
+      "id": "VN-56",
+      "title": "Bắc Ninh",
+      "regions": "B",
+      "slug": "bac-ninh"
+    },
+    "VN-57": {
+      "id": "VN-57",
+      "title": "Bình Dương",
+      "regions": "N",
+      "slug": "binh-duong"
+    },
+    "VN-31": {
+      "id": "VN-31",
+      "title": "Bình Định",
+      "regions": "T",
+      "slug": "binh-dinh"
+    },
+    "VN-58": {
+      "id": "VN-58",
+      "title": "Bình Phước",
+      "regions": "N",
+      "slug": "binh-phuoc"
+    },
+    "VN-40": {
+      "id": "VN-40",
+      "title": "Bình Thuận",
+      "regions": "T",
+      "slug": "binh-thuan"
+    },
+    "VN-50": {
+      "id": "VN-50",
+      "title": "Bến Tre",
+      "regions": "N",
+      "slug": "ben-tre"
+    },
+    "VN-04": {
+      "id": "VN-04",
+      "title": "Cao Bằng",
+      "regions": "B",
+      "slug": "cao-bang"
+    },
+    "VN-59": {
+      "id": "VN-59",
+      "title": "Cà Mau",
+      "regions": "N",
+      "slug": "ca-mau"
+    },
+    "VN-CT": {
+      "id": "VN-CT",
+      "title": "Cần Thơ",
+      "regions": "N",
+      "slug": "can-tho"
+    },
+    "VN-DN": {
+      "id": "VN-DN",
+      "title": "Đà Nẵng",
+      "regions": "T",
+      "slug": "da-nang"
+    },
+    "VN-33": {
+      "id": "VN-33",
+      "title": "Đắk Lắk",
+      "regions": "T",
+      "slug": "dak-lak"
+    },
+    "VN-72": {
+      "id": "VN-72",
+      "title": "Đắk Nông",
+      "regions": "T",
+      "slug": "dak-nong"
+    },
+    "VN-71": {
+      "id": "VN-71",
+      "title": "Điện Biên",
+      "regions": "B",
+      "slug": "dien-bien"
+    },
+    "VN-39": {
+      "id": "VN-39",
+      "title": "Đồng Nai",
+      "regions": "N",
+      "slug": "dong-nai"
+    },
+    "VN-45": {
+      "id": "VN-45",
+      "title": "Đồng Tháp",
+      "regions": "N",
+      "slug": "dong-thap"
+    },
+    "VN-30": {
+      "id": "VN-30",
+      "title": "Gia Lai",
+      "regions": "T",
+      "slug": "gia-lai"
+    },
+    "VN-HN": {
+      "id": "VN-HN",
+      "title": "Hà Nội",
+      "regions": "B",
+      "slug": "ha-noi"
+    },
+    "VN-63": {
+      "id": "VN-63",
+      "title": "Hà Nam",
+      "regions": "B",
+      "slug": "ha-nam"
+    },
+    "VN-23": {
+      "id": "VN-23",
+      "title": "Hà Tĩnh",
+      "regions": "T",
+      "slug": "ha-tinh"
+    },
+    "VN-03": {
+      "id": "VN-03",
+      "title": "Hà Giang",
+      "regions": "B",
+      "slug": "ha-giang"
+    },
+    "VN-61": {
+      "id": "VN-61",
+      "title": "Hải Dương",
+      "regions": "B",
+      "slug": "hai-duong"
+    },
+    "VN-HP": {
+      "id": "VN-HP",
+      "title": "Hải Phòng",
+      "regions": "B",
+      "slug": "hai-phong"
+    },
+    "VN-73": {
+      "id": "VN-73",
+      "title": "Hậu Giang",
+      "regions": "N",
+      "slug": "hau-giang"
+    },
+    "VN-14": {
+      "id": "VN-14",
+      "title": "Hòa Bình",
+      "regions": "B",
+      "slug": "hoa-binh"
+    },
+    "VN-SG": {
+      "id": "VN-SG",
+      "title": "Hồ Chí Minh",
+      "regions": "N",
+      "slug": "ho-chi-minh"
+    },
+    "VN-66": {
+      "id": "VN-66",
+      "title": "Hưng Yên",
+      "regions": "B",
+      "slug": "hung-yen"
+    },
+    "VN-34": {
+      "id": "VN-34",
+      "title": "Khánh Hòa",
+      "regions": "T",
+      "slug": "khanh-hoa"
+    },
+    "VN-47": {
+      "id": "VN-47",
+      "title": "Kiên Giang",
+      "regions": "N",
+      "slug": "kien-giang"
+    },
+    "VN-28": {
+      "id": "VN-28",
+      "title": "Kon Tum",
+      "regions": "T",
+      "slug": "kon-tum"
+    },
+    "VN-09": {
+      "id": "VN-09",
+      "title": "Lạng Sơn",
+      "regions": "B",
+      "slug": "lang-son"
+    },
+    "VN-01": {
+      "id": "VN-01",
+      "title": "Lai Châu",
+      "regions": "B",
+      "slug": "lai-chau"
+    },
+    "VN-02": {
+      "id": "VN-02",
+      "title": "Lào Cai",
+      "regions": "B",
+      "slug": "lao-cai"
+    },
+    "VN-35": {
+      "id": "VN-35",
+      "title": "Lâm Đồng",
+      "regions": "T",
+      "slug": "lam-dong"
+    },
+    "VN-41": {
+      "id": "VN-41",
+      "title": "Long An",
+      "regions": "N",
+      "slug": "long-an"
+    },
+    "VN-67": {
+      "id": "VN-67",
+      "title": "Nam Định",
+      "regions": "B",
+      "slug": "nam-dinh"
+    },
+    "VN-18": {
+      "id": "VN-18",
+      "title": "Ninh Bình",
+      "regions": "B",
+      "slug": "ninh-binh"
+    },
+    "VN-36": {
+      "id": "VN-36",
+      "title": "Ninh Thuận",
+      "regions": "T",
+      "slug": "ninh-thuan"
+    },
+    "VN-22": {
+      "id": "VN-22",
+      "title": "Nghệ An",
+      "regions": "T",
+      "slug": "nghe-an"
+    },
+    "VN-68": {
+      "id": "VN-68",
+      "title": "Phú Thọ",
+      "regions": "B",
+      "slug": "phu-tho"
+    },
+    "VN-32": {
+      "id": "VN-32",
+      "title": "Phú Yên",
+      "regions": "T",
+      "slug": "phu-yen"
+    },
+    "VN-24": {
+      "id": "VN-24",
+      "title": "Quảng Bình",
+      "regions": "T",
+      "slug": "quang-binh"
+    },
+    "VN-27": {
+      "id": "VN-27",
+      "title": "Quảng Nam",
+      "regions": "T",
+      "slug": "quang-nam"
+    },
+    "VN-29": {
+      "id": "VN-29",
+      "title": "Quảng Ngãi",
+      "regions": "T",
+      "slug": "quang-ngai"
+    },
+    "VN-13": {
+      "id": "VN-13",
+      "title": "Quảng Ninh",
+      "regions": "B",
+      "slug": "quang-ninh"
+    },
+    "VN-25": {
+      "id": "VN-25",
+      "title": "Quảng Trị",
+      "regions": "T",
+      "slug": "quang-tri"
+    },
+    "VN-52": {
+      "id": "VN-52",
+      "title": "Sóc Trăng",
+      "regions": "N",
+      "slug": "soc-trang"
+    },
+    "VN-05": {
+      "id": "VN-05",
+      "title": "Sơn La",
+      "regions": "B",
+      "slug": "son-la"
+    },
+    "VN-37": {
+      "id": "VN-37",
+      "title": "Tây Ninh",
+      "regions": "N",
+      "slug": "tay-ninh"
+    },
+    "VN-20": {
+      "id": "VN-20",
+      "title": "Thái Bình",
+      "regions": "B",
+      "slug": "thai-binh"
+    },
+    "VN-21": {
+      "id": "VN-21",
+      "title": "Thanh Hóa",
+      "regions": "T",
+      "slug": "thanh-hoa"
+    },
+    "VN-69": {
+      "id": "VN-69",
+      "title": "Thái Nguyên",
+      "regions": "B",
+      "slug": "thai-nguyen"
+    },
+    "VN-26": {
+      "id": "VN-26",
+      "title": "Thừa Thiên–Huế",
+      "regions": "T",
+      "slug": "thua-thien-hue"
+    },
+    "VN-46": {
+      "id": "VN-46",
+      "title": "Tiền Giang",
+      "regions": "N",
+      "slug": "tien-giang"
+    },
+    "VN-51": {
+      "id": "VN-51",
+      "title": "Trà Vinh",
+      "regions": "N",
+      "slug": "tra-vinh"
+    },
+    "VN-07": {
+      "id": "VN-07",
+      "title": "Tuyên Quang",
+      "regions": "B",
+      "slug": "tuyen-quang"
+    },
+    "VN-49": {
+      "id": "VN-49",
+      "title": "Vĩnh Long",
+      "regions": "N",
+      "slug": "vinh-long"
+    },
+    "VN-70": {
+      "id": "VN-70",
+      "title": "Vĩnh Phúc",
+      "regions": "B",
+      "slug": "vinh-phuc"
+    },
+    "VN-06": {
+      "id": "VN-06",
+      "title": "Yên Bái",
+      "regions": "B",
+      "slug": "yen-bai"
+    }
+  },
+  "regions": {
+    "B": { "title": "Miền Bắc" },
+    "T": { "title": "Miền Trung" },
+    "N": { "title": "Miền Nam" }
+  }
+}

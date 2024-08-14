@@ -1,0 +1,319 @@
+{
+    "data": {
+        "VN-HN": {
+            "key": "VN-HN",
+            "color": "fill:#FD703A",
+            "title": "Hà Nội"
+        },
+        "VN-SG": {
+            "key": "VN-SG",
+            "color": "fill:#FFCF59",
+            "title": "Hồ Chí Minh"
+        },
+        "VN-DN": {
+            "key": "VN-DN",
+            "color": "fill:#21629B",
+            "title": "Đà Nẵng"
+        },
+        "VN-43": {
+            "key": "VN-43",
+            "color": "fill:#FFBD21",
+            "title": "Bà Rịa–Vũng Tàu"
+        },
+        "VN-34": {
+            "key": "VN-34",
+            "color": "fill:#2982D3",
+            "title": "Khánh Hòa"
+        },
+        "VN-35": {
+            "key": "VN-35",
+            "color": "fill:#FD703A",
+            "title": "Lâm Đồng"
+        },
+        "VN-26": {
+            "key": "VN-26",
+            "color": "fill:#703d7b",
+            "title": "Thừa Thiên–Huế"
+        },
+        "VN-18": {
+            "key": "VN-18",
+            "color": "fill:#FFCF59",
+            "title": "Ninh Bình"
+        },
+        "VN-57": {
+            "key": "VN-57",
+            "color": "fill:#136f14",
+            "title": "Bình Dương"
+        },
+        "VN-39": {
+            "key": "VN-39",
+            "color": "fill:#A7D2D3",
+            "title": "Đồng Nai"
+        },
+        "VN-27": {
+            "key": "VN-27",
+            "color": "fill:#FD703A",
+            "title": "Quảng Nam"
+        },
+        "VN-13": {
+            "key": "VN-13",
+            "color": "fill:#FFCF59",
+            "title": "Quảng Ninh"
+        },
+        "VN-21": {
+            "key": "VN-21",
+            "color": "fill:#54B0FF",
+            "title":"Thanh Hóa"
+        },
+        "VN-HP": {
+            "key": "VN-HP",
+            "color": "fill:#FFBD21",
+            "title": "Hải Phòng"
+        },
+        "VN-22": {
+            "key": "VN-22",
+            "color": "fill:#703d7b",
+            "title": "Nghệ An"
+        },
+        "VN-CT": {
+            "key": "VN-CT",
+            "color": "fill:#FFBD21",
+            "title": "Cần Thơ"
+        },
+        "VN-40": {
+            "key": "VN-40",
+            "color": "fill:#703d7b",
+            "title": "Bình Thuận"
+        },
+        "VN-61": {
+            "key": "VN-61",
+            "color": "fill:#FFCF59",
+            "title": "Hải Dương"
+        },
+        "VN-56": {
+            "key": "VN-56",
+            "color": "fill:#136f14",
+            "title": "Bắc Ninh"
+        },
+        "VN-02": {
+            "key": "VN-02",
+            "color": "fill:#A7D2D3",
+            "title": "Lào Cai"
+        },
+        "VN-67": {
+            "key": "VN-67",
+            "color": "fill:#FD703A",
+            "title": "Nam Định"
+        },
+        "VN-24": {
+            "key": "VN-24",
+            "color": "fill:#FFCF59",
+            "title": "Quảng Bình"
+        },
+        "VN-14": {
+            "key": "VN-14",
+            "color": "fill:#FFBD21",
+            "title": "Hòa Bình"
+        },
+        "VN-41": {
+            "key": "VN-41",
+            "color": "fill:#83C6FF",
+            "title": "Long An"
+        },
+        "VN-70": {
+            "key": "VN-70",
+            "color": "fill:#703d7b",
+            "title": "Vĩnh Phúc"
+        },
+        "VN-50": {
+            "key": "VN-50",
+            "color": "fill:#FFBD21",
+            "title": "Bến Tre"
+        },
+        "VN-63": {
+            "key": "VN-63",
+            "color": "fill:#703d7b",
+            "title": "Hà Nam"
+        },
+        "VN-46": {
+            "key": "VN-46",
+            "color": "fill:#FFCF59",
+            "title": "Tiền Giang"
+        },
+        "VN-68": {
+            "key": "VN-68",
+            "color": "fill:#136f14",
+            "title": "Phú Thọ"
+        },
+        "VN-66": {
+            "key": "VN-66",
+            "color": "fill:#A7D2D3",
+            "title": "Hưng Yên"
+        },
+        "VN-47": {
+            "key": "VN-47",
+            "color": "fill:#FD703A",
+            "title": "Kiên Giang"
+        },
+        "VN-20": {
+            "key": "VN-20",
+            "color": "fill:#FFCF59",
+            "title": "Thái Bình"
+        },
+        "VN-23": {
+            "key": "VN-23",
+            "color": "fill:#FFBD21",
+            "title": "Hà Tĩnh"
+        },
+        "VN-37": {
+            "key": "VN-37",
+            "color": "fill:#FFBD21",
+            "title": "Tây Ninh"
+        },
+        "VN-36": {
+            "key": "VN-36",
+            "color": "fill:#2368A5",
+            "title": "Ninh Thuận"
+        },
+        "VN-69": {
+            "key": "VN-69",
+            "color": "fill:#FFBD21",
+            "title": "Thái Nguyên"
+        },
+        "VN-31": {
+            "key": "VN-31",
+            "color": "fill:#703d7b",
+            "title": "Bình Định"
+        },
+        "VN-09": {
+            "key": "VN-09",
+            "color": "fill:#54B0FF",
+            "title": "Lạng Sơn"
+        },
+        "VN-25": {
+            "key": "VN-25",
+            "color": "fill:#136f14",
+            "title": "Quảng Trị"
+        },
+        "VN-29": {
+            "key": "VN-29",
+            "color": "fill:#A7D2D3",
+            "title": "Quảng Ngãi"
+        },
+        "VN-54": {
+            "key": "VN-54",
+            "color": "fill:#FD703A",
+            "title": "Bắc Giang"
+        },
+        "VN-49": {
+            "key": "VN-49",
+            "color": "fill:#FFCF59",
+            "title": "Vĩnh Long"
+        },
+        "VN-32": {
+            "key": "VN-32",
+            "color": "fill:#FFBD21",
+            "title": "Phú Yên"
+        },
+        "VN-33": {
+            "key": "VN-33",
+            "color": "fill:#FFBD21",
+            "title": "Đắk Lắk"
+        },
+        "VN-45": {
+            "key": "VN-45",
+            "color": "fill:#703d7b",
+            "title": "Đồng Tháp"
+        },
+        "VN-44": {
+            "key": "VN-44",
+            "color": "fill:#FFBD21",
+            "title": "An Giang"
+        },
+        "VN-58": {
+            "key": "VN-58",
+            "color": "fill:#703d7b",
+            "title": "Bình Phước"
+        },
+        "VN-06": {
+            "key": "VN-06",
+            "color": "fill:#FFCF59",
+            "title": "Yên Bái"
+        },
+        "VN-05": {
+            "key": "VN-05",
+            "color": "fill:#136f14",
+            "title":"Sơn La"
+        },
+        "VN-52": {
+            "key": "VN-52",
+            "color": "fill:#A7D2D3",
+            "title": "Sóc Trăng"
+        },
+        "VN-59": {
+            "key": "VN-59",
+            "color": "fill:#FD703A",
+            "title": "Cà Mau"
+        },
+        "VN-07": {
+            "key": "VN-07",
+            "color": "fill:#2368A5",
+            "title": "Tuyên Quang"
+        },
+        "VN-55": {
+            "key": "VN-55",
+            "color": "fill:#FFBD21",
+            "title": "Bạc Liêu"
+        },
+        "VN-03": {
+            "key": "VN-03",
+            "color": "fill:#FFBD21",
+            "title": "Hà Giang"
+        },
+        "VN-30": {
+            "key": "VN-30",
+            "color": "fill:#2368A5",
+            "title": "Gia Lai"
+        },
+        "VN-73": {
+            "key": "VN-73",
+            "color": "fill:#FFBD21",
+            "title": "Hậu Giang"
+        },
+        "VN-51": {
+            "key": "VN-51",
+            "color": "fill:#703d7b",
+            "title": "Trà Vinh"
+        },
+        "VN-72": {
+            "key": "VN-72",
+            "color": "fill:#FFCF59",
+            "title": "Đắk Nông"
+        },
+        "VN-04": {
+            "key": "VN-04",
+            "color": "fill:#136f14",
+            "title": "Cao Bằng"
+        },
+        "VN-28": {
+            "key": "VN-28",
+            "color": "fill:#A7D2D3",
+            "title": "Kon Tum"
+        },
+        "VN-53": {
+            "key": "VN-53",
+            "color": "fill:#FD703A",
+            "title": "Bắc Kạn"
+        },
+        "VN-01": {
+            "key": "VN-01",
+            "color": "fill:#FFCF59",
+            "title": "Lai Châu"
+        },
+        "VN-71": {
+            "key": "VN-71",
+            "color": "fill:#FFBD21",
+            "title": "Điện Biên"
+        }
+    }
+}

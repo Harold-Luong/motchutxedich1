@@ -1,0 +1,17 @@
+
+[id^="VN-"] {
+    transition: fill 0.3s ease, transform 0.3s ease;
+  }
+
+  [id^="VN-"]:hover {
+    fill: #241919a7 !important;
+    cursor: pointer;
+  }
+
+  svg {
+    display: block;
+    margin: auto;
+    float: right;
+    width:70vw;
+    height: 100vh ;
+  }
